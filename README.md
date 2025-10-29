@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" height="300"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+DK!;" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3000&lines=React+Developer+⚛️;Next.js+Developer+🚀;Node.js+Developer+💚;Express.js+Developer+⚡;NestJS+Developer+🔴;JavaScript+Developer+💛;Full+Stack+Developer+🌐;Backend+Developer+🔧;Frontend+Developer+🎨;MERN+Stack+Developer+📦" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3000&lines=React+Developer+⚛️;Next.js+Developer+🚀;Node.js+Developer+💚;Express.js+Developer+⚡;NestJS+Developer+🔴;TypeScript+Developer+💙;JavaScript+Developer+💛;MongoDB+Developer+🍃;SQL+Developer+🗄️;MERN+Stack+Developer+📦" />
 </h3>
 
 <div align="center">
  
- 🔭 I'm currently building **production-level applications**
+ 🔭 Building **production-level full stack applications**
  
- 🌱 I'm mastering **Microservices & Clean Architecture**
+ 🌱 Mastering **Microservices, Clean Architecture & System Design**
  
- 💬 Ask me about **MERN Stack, NestJS, Go, WebRTC**
+ 💬 Ask me about **MERN Stack, NestJS, Real-time Systems, Payment Integration**
 
- ⚡ Fun fact: **I debug with coffee ☕**
+ ⚡ Fun fact: **I turn coffee into code ☕ → 💻**
 
  📧 **abhidk62@gmail.com** | 📱 **+91-7012941009**
 
@@ -40,50 +40,100 @@
 
 ---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Core Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,go,typescript,javascript" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,docker,aws,nginx,git" />
-    <img src="https://skillicons.dev/icons?i=redux,tailwind,vite,jest,postman,socketio,vercel,linux" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,typescript,javascript,mysql,postgresql" /><br>
 </div>
 
 <br/>
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br>
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mohammedrimshan&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrimshan&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</div>
+<h2 align="center">🎓 Education 🎓</h2>
 
-<br/><br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+  <br><br>
+  <h3>Master of Computer Applications (MCA)</h3>
+  <p><b>Srinivas University, Mangalore</b> | 2023 – 2024</p>
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" />
+  <br><br>
+  <h3>Bachelor of Science in Computer Science</h3>
+  <p><b>Canara College, Mangalore University</b> | 2019 – 2022</p>
+</div>
 
 ---
 
-<h2 align="center">🔥 Streak Stats 🔥</h2>
-<br>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrimshan&theme=tokyonight&border_radius=10" alt="streak stats"/>
-</div>
+<h2 align="center">💻 Technical Expertise 💻</h2>
 
-<br/><br/>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### Frontend Development
+- React.js & Next.js
+- TypeScript & JavaScript ES6+
+- Redux Toolkit, Zustand, Context API
+- Responsive & Mobile-First Design
+
+</td>
+<td width="50%">
+
+### Backend Development
+- Node.js, Express.js & NestJS
+- RESTful APIs & Microservices
+- Clean Architecture & Design Patterns
+- Real-time with Socket.IO & WebRTC
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Database & Caching
+- MongoDB (Mongoose)
+- MySQL & PostgreSQL
+- Redis for caching
+- Database optimization & indexing
+
+</td>
+<td width="50%">
+
+### DevOps & Integration
+- AWS (EC2, S3), Docker, Nginx
+- Payment Gateway (Razorpay, Stripe)
+- JWT & OAuth 2.0 Authentication
+- Git workflows & Agile methodology
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<h2 align="center">💼 Professional Summary 💼</h2>
+<h2 align="center">🚀 What I Do Best 🚀</h2>
 
-<div align="left">
+<div align="center">
 
-MCA graduate and Full Stack Developer specializing in MERN stack,
-NestJS, and Go with expertise in building production-level web
-applications. Proficient in React.js, Next.js, TypeScript, real-time
-systems, payment integrations, and secure authentication. Experienced
-in full application lifecycle from development to AWS deployment using
-Agile methodologies.
+const abhishekDK = {
+expertise: ["Full Stack Development", "System Architecture", "API Design"],
+specialization: {
+frontend: ["React.js", "Next.js", "TypeScript"],
+backend: ["Node.js", "Express.js", "NestJS"],
+database: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+realtime: ["Socket.IO", "WebRTC", "WebSocket"],
+deployment: ["AWS EC2", "Docker", "Nginx"],
+},
+currentFocus: "Building scalable microservices and real-time applications",
+motto: "Clean code, scalable architecture, production-ready solutions"
+};
 
 text
 
@@ -91,73 +141,48 @@ text
 
 ---
 
-<h2 align="center">🎓 Education 🎓</h2>
+<h2 align="center">🐍 My Contributions 🐍</h2>
 
-<div align="left">
-
-### 🎯 Master of Computer Applications (MCA)
-**Srinivas University, Mangalore** | 2023 – 2024
-
-### 🎯 Bachelor of Science in Computer Science (B.Sc.)
-**Canara College, Mangalore University** | 2019 – 2022
-
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/>
 </div>
 
 ---
 
-<h2 align="center">💻 Technical Expertise 💻</h2>
+<h2 align="center">📈 Contribution Graph 📈</h2>
 
-<div align="left">
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekdk62&theme=react-dark&hide_border=true&area=true" width="100%">
+</div>
 
-### Languages & Frameworks
-- **Frontend**: React.js, Next.js, TypeScript, JavaScript ES6+
-- **Backend**: Node.js, NestJS, Express.js, Go
-- **Styling**: TailwindCSS, Material-UI, Shadcn
+---
 
-### Database & Caching
-- MongoDB, MySQL, PostgreSQL, Redis
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
-### Architecture & Patterns
-- RESTful API, Microservices, Clean Architecture, Repository Pattern
-
-### State Management
-- Redux Toolkit, Zustand, Context API
-
-### Authentication & Payments
-- JWT, OAuth 2.0, Stripe, PayPal, Razorpay
-
-### Real-time Technologies
-- Socket.IO, WebRTC, WebSocket
-
-### DevOps & Tools
-- Docker, AWS (EC2, S3), Nginx, Git, Postman, Vite, Jest
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekdk62&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohammedrimshan/mohammedrimshan/output/snake.svg" alt="Snake animation" />
-
----
-
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
 </div>
 
 ---
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+build+something+amazing!;Open+to+collaboration+:)">
 </h3>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedrimshan&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abhishekdk62&style=for-the-badge&color=orange" alt="Profile Views"/>
 </div>
