@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
 
 <h1 align="center">
@@ -17,8 +17,6 @@
  🌱 Mastering **Microservices, Clean Architecture & System Design**
  
  💬 Ask me about **MERN Stack, NestJS, Real-time Systems, Payment Integration**
-
- ⚡ Fun fact: **I turn coffee into code ☕ → 💻**
 
  📧 **abhidk62@gmail.com** | 📱 **+91-7012941009**
 
@@ -42,8 +40,20 @@
 
 <h2 align="center">⚒️ Core Tech Stack ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,typescript,javascript,mysql,postgresql" /><br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 <br/>
@@ -56,12 +66,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
   <br><br>
   <h3>Master of Computer Applications (MCA)</h3>
-  <p><b>Srinivas University, Mangalore</b> | 2023 – 2024</p>
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" />
-  <br><br>
-  <h3>Bachelor of Science in Computer Science</h3>
-  <p><b>Canara College, Mangalore University</b> | 2019 – 2022</p>
+  <p>Specialized in Full Stack Development & Software Engineering</p>
 </div>
 
 ---
@@ -123,18 +128,17 @@
 <div align="center">
 
 const abhishekDK = {
-expertise: ["Full Stack Development", "System Architecture", "API Design"],
-specialization: {
-frontend: ["React.js", "Next.js", "TypeScript"],
-backend: ["Node.js", "Express.js", "NestJS"],
-database: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-realtime: ["Socket.IO", "WebRTC", "WebSocket"],
-deployment: ["AWS EC2", "Docker", "Nginx"],
-},
-currentFocus: "Building scalable microservices and real-time applications",
-motto: "Clean code, scalable architecture, production-ready solutions"
-};
+role: "Full Stack Develop
+r", expertise: ["Full Stack Development", "System Architecture", "API D
+sign"], speci
+lization: { frontend: ["React.js", "Next
+js", "TypeScript"], backend: ["Node.j
+", "Express.js", "NestJS"], database: ["MongoD
+", "MySQL", "PostgreSQL", "Redis"], rea
+time: ["Socket.IO", "WebRTC", "WebSocket"],
 
+deployment: ["AWS EC2", "Docker", "Nginx"], }, currentFocus: "
+uilding scalable microservices and real-time applications", motto:
 text
 
 </div>
@@ -145,7 +149,7 @@ text
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abhishekdk62/abhishekdk62/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/>
 </div>
 
@@ -180,9 +184,3 @@ text
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+build+something+amazing!;Open+to+collaboration+:)">
 </h3>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekdk62&style=for-the-badge&color=orange" alt="Profile Views"/>
-</div>
