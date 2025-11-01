@@ -78,7 +78,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=700&height=40&duration=2500&lines=React+Developer+⚛️;Next.js+Developer+🚀;Node.js+Developer+💚;Express.js+Developer+⚡;NestJS+Developer+🔴;TypeScript+Developer+💙;JavaScript+Developer+💛;MongoDB+Developer+🍃;SQL+Developer+🗄️;Full+Stack+Developer+📦;Backend+Developer+🔧;Frontend+Developer+🎨" />
 </h3>
----
+
 
 <h2 align="center">🚀 What I Do Best 🚀</h2>
 
