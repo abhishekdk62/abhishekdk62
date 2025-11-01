@@ -127,8 +127,8 @@
 
 <div align="center">
 <br>
-```js
-const abhishekDK = {
+```
+  const abhishekDK = {
 role: "Full Stack Developer",
 expertise: [
 "Full Stack Development",
@@ -144,7 +144,8 @@ deployment: ["AWS EC2", "Docker", "Nginx"]
 },
 currentFocus: "Building scalable microservices and real-time applications",
 motto: "Clean code, scalable architecture, seamless user experience"
-};```
+};
+```
 
 
 <br>
