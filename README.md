@@ -125,25 +125,23 @@
 
 <h2 align="center">🚀 What I Do Best 🚀</h2>
 
-<div align="center">
-<br>
-```js
-  const abhishekDK = {
-role: "Full Stack Developer",
-expertise: [
-"Full Stack Development",
-"System Architecture",
-"API Design"
-],
-specialization: {
-frontend: ["React.js", "Next.js", "TypeScript"],
-backend: ["Node.js", "Express.js", "NestJS"],
-database: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-realtime: ["Socket.IO", "WebRTC", "WebSocket"],
-deployment: ["AWS EC2", "Docker", "Nginx"]
-},
-currentFocus: "Building scalable microservices and real-time applications",
-motto: "Clean code, scalable architecture, seamless user experience"
+```javascript
+const abhishekDK = {
+  role: "Full Stack Developer",
+  expertise: [
+    "Full Stack Development",
+    "System Architecture",
+    "API Design"
+  ],
+  specialization: {
+    frontend: ["React.js", "Next.js", "TypeScript"],
+    backend: ["Node.js", "Express.js", "NestJS"],
+    database: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+    realtime: ["Socket.IO", "WebRTC", "WebSocket"],
+    deployment: ["AWS EC2", "Docker", "Nginx"]
+  },
+  currentFocus: "Building scalable microservices and real-time applications",
+  motto: "Clean code, scalable architecture, seamless user experience"
 };
 ```
 
