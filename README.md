@@ -145,8 +145,6 @@ currentFocus: "Building scalable microservices and real-time applications",
 motto: "Clean code, scalable architecture, seamless user experience"
 };
 
-text
-
 </div>
 
 ---
