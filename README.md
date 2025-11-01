@@ -10,8 +10,6 @@
  
   📧 **abhidk62@gmail.com** | 📱 **+91-7012941009**
 
-  📍 **Mangalore, India**
-
 </div>
 
 
