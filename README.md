@@ -8,15 +8,9 @@
 
 <div align="center">
  
- 🔭 Building **production-level full stack applications**
- 
- 🌱 Mastering **Microservices, Clean Architecture & System Design**
- 
- 💬 Ask me about **MERN Stack, NestJS, Real-time Systems, Payment Integration**
+  📧 **abhidk62@gmail.com** | 📱 **+91-7012941009**
 
- 📧 **abhidk62@gmail.com** | 📱 **+91-7012941009**
-
- 📍 **Mangalore, India**
+  📍 **Mangalore, India**
 
 </div>
 
@@ -57,17 +51,6 @@
 </h3>
 
 <br/>
-
----
-
-<h2 align="center">🎓 Education 🎓</h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-  <br><br>
-  <h3>Master of Computer Applications (MCA)</h3>
-  <p>Specialized in Full Stack Development & Software Engineering</p>
-</div>
 
 ---
 
@@ -144,7 +127,6 @@ const abhishekDK = {
   motto: "Clean code, scalable architecture, seamless user experience"
 };
 ```
-
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
 <div align="center">
