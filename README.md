@@ -144,7 +144,8 @@ deployment: ["AWS EC2", "Docker", "Nginx"]
 },
 currentFocus: "Building scalable microservices and real-time applications",
 motto: "Clean code, scalable architecture, seamless user experience"
-};```
+};
+```
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
