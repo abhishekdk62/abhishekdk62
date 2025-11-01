@@ -121,12 +121,11 @@
 
 </div>
 
----
 
 <h2 align="center">🚀 What I Do Best 🚀</h2>
 
 <div align="center">
-
+<br>
 const abhishekDK = {
 role: "Full Stack Developer",
 expertise: [
@@ -144,10 +143,8 @@ deployment: ["AWS EC2", "Docker", "Nginx"]
 currentFocus: "Building scalable microservices and real-time applications",
 motto: "Clean code, scalable architecture, seamless user experience"
 };
-
+<br>
 </div>
-
----
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
