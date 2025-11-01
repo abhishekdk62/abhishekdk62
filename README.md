@@ -23,19 +23,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=700&height=40&duration=2500&lines=React+Developer+⚛️;Next.js+Developer+🚀;Node.js+Developer+💚;Express.js+Developer+⚡;NestJS+Developer+🔴;TypeScript+Developer+💙;JavaScript+Developer+💛;MongoDB+Developer+🍃;SQL+Developer+🗄️;Full+Stack+Developer+📦;Backend+Developer+🔧;Frontend+Developer+🎨" />
-</h3>
-<div align="center">
- 
-  📧 **abhidk62@gmail.com** | 📱 **+91-7012941009**
-
-</div>
 
 
-<br/>
-
----
 
 <h2 align="center">💻 Technical Expertise 💻</h2>
 
@@ -86,7 +75,9 @@
 </table>
 
 </div>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=700&height=40&duration=2500&lines=React+Developer+⚛️;Next.js+Developer+🚀;Node.js+Developer+💚;Express.js+Developer+⚡;NestJS+Developer+🔴;TypeScript+Developer+💙;JavaScript+Developer+💛;MongoDB+Developer+🍃;SQL+Developer+🗄️;Full+Stack+Developer+📦;Backend+Developer+🔧;Frontend+Developer+🎨" />
+</h3>
 ---
 
 <h2 align="center">🚀 What I Do Best 🚀</h2>
