@@ -127,7 +127,7 @@
 
 <div align="center">
 <br>
-```
+```js
   const abhishekDK = {
 role: "Full Stack Developer",
 expertise: [
